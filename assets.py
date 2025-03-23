@@ -1,9 +1,11 @@
-GAME_BG_IMG = "assets/satai.jpg"
+GAME_BG_IMG = "assets/sarai.jpg"
 
-ROKCET_IMG = "assets/krutoisvin.png"
+ROCKET_IMG = "assets/krutoisvin.png"
 
 ENEMY_IMG = "assets/krutoismailik.png"
 
-GAME_MUSIC = "assets/Omfg Hello.mp3"
+GAME_MUSIC = "assets/hello.mp3"
 
 FIRE_SOUND = "assets/vistrel.mp3"
+
+GAMAGE_SOUND = "assets/pukane-4.mp3"
